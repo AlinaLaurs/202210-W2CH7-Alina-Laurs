@@ -1,4 +1,5 @@
 Week 2 - Challenge 2
+
 strictEquals function
 
 Escribe en un módulo propio, una función llamada strictEquals(a, b) que devuelva el mismo valor que a === b. Tu implementación no puede usar los operadores === ni !==.
